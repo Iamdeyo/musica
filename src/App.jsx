@@ -1,5 +1,11 @@
+import HomePage from './pages/HomePage';
+
 function App() {
-  return <div className="App text-red-500">Musica</div>;
+  return (
+    <div className="App">
+      <HomePage />
+    </div>
+  );
 }
 
 export default App;

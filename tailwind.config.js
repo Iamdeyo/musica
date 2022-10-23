@@ -8,6 +8,7 @@ module.exports = {
       white: '#FFF',
       whiteAlt: '#ffffff41',
       light: '#EFEEE0',
+      lightAlt: '#efeee141',
       dark: '#1D2123',
       secondary: '#FACD66',
       primary: '#A4C7C6',

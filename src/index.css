@@ -11,3 +11,10 @@ html {
 #topNav.active + #sideNav {
   left: 0 !important;
 }
+/* 
+#timeline {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 4px;
+  background-color: transparent;
+} */

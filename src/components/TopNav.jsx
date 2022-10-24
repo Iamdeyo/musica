@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useState } from 'react';
 import { ReactComponent as SearchIcon } from '../assets/icon/search.svg';
 import logo from '../assets/img/logo.png';
 

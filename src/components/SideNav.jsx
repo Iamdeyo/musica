@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import { ReactComponent as HomeIcon } from '../assets/icon/Home-1.svg';
 import { ReactComponent as RadioIcon } from '../assets/icon/radio.svg';
 import { ReactComponent as LogoutIcon } from '../assets/icon/Logout.svg';
